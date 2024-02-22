@@ -1,0 +1,2 @@
+SBB
+Server=localhost;Database=dizajniranje_softvera;User ID=root;Password=;
